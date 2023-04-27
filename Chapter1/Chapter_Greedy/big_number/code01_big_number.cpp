@@ -7,6 +7,13 @@ int main()
 {
 	int n, m, k;
 	cin >> n;
+	cin >> m;
+	cin >> k;
 
-	cout << n;
+	int array = {};
+	for (int i = 0; i < 3; i++)
+	{
+		cin >> array[i];
+	}
+	
 }
