@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{52ed6de0-541a-4ad5-94d7-a82ebddf16a4}</ProjectGuid>
-    <RootNamespace>lawoflargenumbers</RootNamespace>
+    <ProjectGuid>{94aa1b59-f9bb-433c-8d43-f9d8ac8d4f42}</ProjectGuid>
+    <RootNamespace>code02lawoflargenumbers</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>code02_law_of_large_numbers_simple</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="law_of_large_numbers_simple.cpp" />
+    <ClCompile Include="law_of_large_numbers.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

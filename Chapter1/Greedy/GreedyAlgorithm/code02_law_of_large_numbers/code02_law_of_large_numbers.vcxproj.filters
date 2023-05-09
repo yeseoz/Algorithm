@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="code01_change.cpp">
+    <ClCompile Include="law_of_large_numbers.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
